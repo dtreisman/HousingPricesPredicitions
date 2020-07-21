@@ -1,5 +1,6 @@
-# HousingPricesPredicitions
-Predicting house prices using machine learning
+# HousingPricesPredicitions  
 
-Dani Treisman & Mark Mohammad
-STAT 388 (Predictive Analytics) - Loyola University Chicago
+## Dani Treisman & Mark Mohammad
+### STAT 388 (Predictive Analytics) - Loyola University Chicago  
+
+Predicting house prices using machine learning
